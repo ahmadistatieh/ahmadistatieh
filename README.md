@@ -63,7 +63,7 @@ ERP system with modules for Inventory, POS, HR, AI Assistant, and E-commerce int
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/ahmadistatieh
-- LinkedIn: www.linkedin.com/in/ahmad-istatieh
+- LinkedIn: https://www.linkedin.com/in/ahmadistatieh/
 - Email: ahmad.iiisstatieh@gmail.com
 
 ---
