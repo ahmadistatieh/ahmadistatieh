@@ -1,10 +1,13 @@
 # Hi, I'm Ahmad Istatieh 👋
+
 ---
-🎓 Computer Science student at An-Najah National University.
-💡 Specialized in Software Engineering.
-💻 Passionate about Software Engineering, Full Stack Development, QA Automation, and UI/UX.
-🚀 Always learning and building new projects.
+
+🎓 Computer Science student at An-Najah National University.  
+💡 Specialized in Software Engineering.  
+💻 Passionate about Software Engineering, Full Stack Development, QA Automation, and UI/UX.  
+🚀 Always learning and building new projects.  
 🚀 Building real-world projects and continuously improving my skills.
+
 ---
 
 ## 🛠️ Tech Stack
